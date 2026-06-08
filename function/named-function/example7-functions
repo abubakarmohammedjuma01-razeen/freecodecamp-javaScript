@@ -1,0 +1,15 @@
+function getGreeting(name) {
+        let message = "Hello, " + name; 
+        return message;
+}
+
+console.log(getGreeting("Abubakar"));
+// calling variable
+function getGreeting(name) {
+        let message = "Hello, " + name; 
+        return message;
+}
+
+console.log(getGreeting("Abubakar"));
+// calling variable
+
